@@ -1,0 +1,20 @@
+[
+  {
+    "nama": "Brian G",
+    "umur": "20",
+    "email": "brian.haryadi@binus.ac.id",
+    "jurusan": "Teknik Informatika"
+  },
+  {
+    "nama": "Venetta A",
+    "umur": "19",
+    "email": "venetta@gmail.com",
+    "jurusan": "Teknik Informatika"
+  },
+  {
+    "nama": "Alexander T",
+    "umur": "20",
+    "email": "alexander@gmail.com",
+    "jurusan": "Teknik Informatika"
+  }
+]
